@@ -1,4 +1,4 @@
-''' Write a program that implements interpolation search. '''
+''' a python program that implements interpolation search. '''
 
 def interpolationSearch(list, target):
     min = 0
